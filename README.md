@@ -39,7 +39,7 @@ compare them.
 **Just tell your AI assistant:**
 
 ```
-Install and configure ch-ocr-mcp-pro from https://github.com/BluerAngala/ch-ocr-mcp-pro.git
+Install and configure ch-ocr-mcp-pro from https://github.com/lawyerch-dev/ch-ocr-mcp-pro.git
 ```
 
 **The AI will automatically:**
@@ -51,7 +51,7 @@ Install and configure ch-ocr-mcp-pro from https://github.com/BluerAngala/ch-ocr-
 **Or let AI run:**
 
 ```bash
-git clone https://github.com/BluerAngala/ch-ocr-mcp-pro.git ~/ch-ocr-mcp-pro
+git clone https://github.com/lawyerch-dev/ch-ocr-mcp-pro.git ~/ch-ocr-mcp-pro
 cd ~/ch-ocr-mcp-pro
 python3 auto-config.py --mirror tsinghua --output-json
 ```
@@ -71,7 +71,7 @@ The AI reads the JSON output and configures your environment automatically.
 
 ```bash
 # Clone
-git clone https://github.com/BluerAngala/ch-ocr-mcp-pro.git
+git clone https://github.com/lawyerch-dev/ch-ocr-mcp-pro.git
 cd ch-ocr-mcp-pro
 
 # Auto install with China mirror

@@ -25,7 +25,7 @@
 **直接告诉你的 AI 助手：**
 
 ```
-帮我安装并配置 ch-ocr-mcp-pro ， https://github.com/BluerAngala/ch-ocr-mcp-pro.git
+帮我安装并配置 ch-ocr-mcp-pro ， https://github.com/lawyerch-dev/ch-ocr-mcp-pro.git
 ```
 
 **AI 会自动：**
@@ -37,7 +37,7 @@
 **或者让 AI 执行：**
 
 ```bash
-git clone https://github.com/BluerAngala/ch-ocr-mcp-pro.git ~/ch-ocr-mcp-pro
+git clone https://github.com/lawyerch-dev/ch-ocr-mcp-pro.git ~/ch-ocr-mcp-pro
 cd ~/ch-ocr-mcp-pro
 python3 auto-config.py --mirror tsinghua --output-json
 ```
@@ -57,7 +57,7 @@ AI 会读取输出的 JSON，自动判断如何配置你的环境。
 
 ```bash
 # 克隆项目
-git clone https://github.com/BluerAngala/ch-ocr-mcp-pro.git
+git clone https://github.com/lawyerch-dev/ch-ocr-mcp-pro.git
 cd ch-ocr-mcp-pro
 
 # 使用国内镜像自动安装
